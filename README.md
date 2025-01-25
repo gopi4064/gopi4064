@@ -1,4 +1,4 @@
-# Hi, I’m @gopi4064 👋
+# Hi, I’m Gopi 👋
 
 ## About Me
 
