@@ -28,11 +28,10 @@ specializing in Java, Spring Boot, and cloud infrastructure. Experienced in API 
 **Location:** Pune, Maharashtra, India
 
 **Project 1: UBS Investment Bank**  
-- Designed and developed microservices using Java and Spring Boot, supporting core banking operations.  
-- Created and managed RESTful APIs to streamline data exchange between systems and enhance performance.  
-- Implemented messaging queues for asynchronous communication between microservices, improving system scalability.  
+- Developed several endpoints for multiple screens in the trading portal for UBS using Spring Boot and REST APIs.  
+- Streamlined data exchange between systems and improved performance by creating and managing RESTful APIs.  
+- Conducted unit testing using JUnit to ensure application functionality and reliability.  
 - Deployed applications using Jenkins CI/CD pipelines on Azure, ensuring high availability and reliability.  
-- Conducted unit testing and JMeter performance testing to ensure application quality and compliance with SLAs.  
 - Collaborated with cross-functional teams to analyze business requirements and deliver robust technical solutions.  
 
 **Project 2: Deutsche Bank Investment Bank**  
@@ -42,6 +41,7 @@ specializing in Java, Spring Boot, and cloud infrastructure. Experienced in API 
 - Conducted detailed root cause analysis to troubleshoot and resolve complex production issues.  
 - Automated DevOps workflows to improve development and deployment efficiency.  
 - Prepared comprehensive technical documentation, including architecture diagrams and API specifications, for development and training.
+
 
 ---
 
